@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Hind:wght@300;400&family=Lobster+Two&family=Prompt:wght@200;300;400&family=Rubik:wght@300;400&family=Source+Code+Pro:wght@200;300;400&display=swap');
+
+.character {
+    font-family: 'Prompt'
+}
+
+.name {
+    font-weight: 400;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    background-color: chartreuse;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.attributes {
+    font-size: 20px;
+    font-weight: 300;
+    background-color: darkgreen;
+}
+
+.strength {
+    background-color: #bb0a1e;
+}
+
+.dexterity {
+    background-color: #42bb0a;
+}
+
+.constitution {
+    background-color: #0a42bb;
+}
+
+.wisdom {
+    background-color: #00ffff;
+}
+
+.charisma {
+    background-color: #ff00ff;
+}
+
+body {
+    background-color: rgb(26, 43, 43);
+}
